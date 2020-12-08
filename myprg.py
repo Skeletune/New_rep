@@ -5,5 +5,6 @@ def my_superfunction():
 
 
 my_superfunction()
+print('Новые изменения изменения')
 print('Изменений нет... НАВЕРНО')
 print('ИЗМЕНЕНИЙ НЕТ, ПОВТОРЯЮ')
