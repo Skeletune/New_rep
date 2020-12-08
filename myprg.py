@@ -3,3 +3,4 @@ def my_superfunction():
 
 
 my_superfunction()
+print('Изменений нет')
